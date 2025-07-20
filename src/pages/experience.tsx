@@ -1,4 +1,4 @@
-import { Box, Card, CardContent, CardHeader, Divider, duration, Grid, Typography } from "@mui/material";
+import { Box, Card, CardContent, CardHeader, Grid, Typography } from "@mui/material";
 
 function Experience(){
   let experience = [{place: 'Microsoft', role: 'Software Engineer Intern', duration: 'May 2025 - Present'},
